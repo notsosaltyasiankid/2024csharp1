@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\School\\MA\\bewijzenmap\\leerjaar 1\\periode 1.3\\PROG\\CSharpOpdrachten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36A4A67-56A4-410F-94A9-D85923491612}|CSharpOpdrachten\\CSharpOpdrachten.csproj|c:\\school\\ma\\bewijzenmap\\leerjaar 1\\periode 1.3\\prog\\csharpopdrachten\\csharpopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36A4A67-56A4-410F-94A9-D85923491612}|CSharpOpdrachten\\CSharpOpdrachten.csproj|solutionrelative:csharpopdrachten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29DC1F-01B2-425C-8B75-E0EE69584FFC}|ProjectAddOpdracht\\ProjectAddOpdracht.csproj|c:\\school\\ma\\bewijzenmap\\leerjaar 1\\periode 1.3\\prog\\csharpopdrachten\\projectaddopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE29DC1F-01B2-425C-8B75-E0EE69584FFC}|ProjectAddOpdracht\\ProjectAddOpdracht.csproj|solutionrelative:projectaddopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School\\MA\\bewijzenmap\\leerjaar 1\\periode 1.3\\PROG\\CSharpOpdrachten\\ProjectAddOpdracht\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectAddOpdracht\\Program.cs",
+              "ToolTip": "C:\\School\\MA\\bewijzenmap\\leerjaar 1\\periode 1.3\\PROG\\CSharpOpdrachten\\ProjectAddOpdracht\\Program.cs",
+              "RelativeToolTip": "ProjectAddOpdracht\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:59:11.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\School\\MA\\bewijzenmap\\leerjaar 1\\periode 1.3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpOpdrachten\\Program.cs",
+              "ToolTip": "C:\\School\\MA\\bewijzenmap\\leerjaar 1\\periode 1.3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\Program.cs",
+              "RelativeToolTip": "CSharpOpdrachten\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:47:07.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
