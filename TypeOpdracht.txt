@@ -14,3 +14,8 @@ public class PlayerContext
     internal string name;
     internal float runTime = 3;
 }
+
+Boolean
+Int
+Float
+string
