@@ -1,0 +1,14 @@
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\bin\Debug\net8.0\ConsoleText.exe
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\bin\Debug\net8.0\ConsoleText.deps.json
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\bin\Debug\net8.0\ConsoleText.runtimeconfig.json
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\bin\Debug\net8.0\ConsoleText.dll
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\bin\Debug\net8.0\ConsoleText.pdb
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.AssemblyInfoInputs.cache
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.AssemblyInfo.cs
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.csproj.CoreCompileInputs.cache
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.dll
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\refint\ConsoleText.dll
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.pdb
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ConsoleText.genruntimeconfig.cache
+C:\School\MA\bewijzenmap\leerjaar 1\periode 1.3\PROG\ConsoleText\ConsoleText\obj\Debug\net8.0\ref\ConsoleText.dll
